@@ -7,6 +7,6 @@
 <title>Looking for Registration Form</title>
 </head>
 <body>
-<a href="Registration.jsp">Registration Page</a>
+<a href="Registration.jsp">Registration Form Page</a>
 </body>
 </html>
